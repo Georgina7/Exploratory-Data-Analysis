@@ -1,0 +1,1 @@
+This notebook covers hypothesis testing, use of summary statistics, visualizations such as scatter plots and line plots. It also demonstrates the calculation of a correlation coefficient. Several datasets were used throughout the notebook.
